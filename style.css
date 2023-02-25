@@ -1,0 +1,52 @@
+body{
+    color: #fff;
+}
+section.wrapper{
+    width: 320px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #211f22;
+}
+nav{
+    height: 32px;
+    margin-bottom: 12px;
+}
+nav i{
+    padding: 12px 18px;
+}
+i.fa-xmark:hover{
+    background-color: #c42b1c;
+}
+input{
+    height: 54px;
+    font-size: 2rem;
+    width: 100%;
+    text-align: right;
+    padding: 4px 16px;
+    outline: 0;
+    border: 0;
+    color: #fff;
+    background-color: inherit;
+}
+.row{
+    margin: 0;
+    padding: 0px 4px;
+}
+.last-row{
+    padding-bottom: 4px;
+}
+.btn{
+    height: 46px;
+    background-color: #343133;
+    border: 2px solid #211f22;
+}
+.equal,
+.equal:hover{
+    background-color: #71d4db;
+    color: #000;
+}
+.equal:hover{
+    border-color: #211f22;
+    opacity: 0.8;
+}
+
